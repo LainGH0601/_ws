@@ -2,4 +2,4 @@
 
 由[參考程式](<[http://example.com/](https://github.com/ccc113a/html2denojs/tree/master/02-%E5%BE%8C%E7%AB%AF/04b-formBlog/blog)>)修改而成  
 使用其中的post.created_at = new Date();列出紀錄的時間  
-[加上時間](https://github.com/LainGH0601/_ws/blob/master/homework/hw2/%E5%8A%A0%E4%B8%8A%E6%99%82%E9%96%93.png)
+![image](https://github.com/LainGH0601/_ws/blob/master/homework/hw2/%E5%8A%A0%E4%B8%8A%E6%99%82%E9%96%93.png)
