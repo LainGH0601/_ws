@@ -21,4 +21,8 @@ HW4
 
 HW5
 ==
-[hw5](<https://github.com/LainGH0601/_ws/tree/master/homework/hw5>)
+[hw5](<https://github.com/LainGH0601/_ws/tree/master/homework/hw5>)  
+
+期中
+==
+[期中](<https://github.com/LainGH0601/_ws/tree/master/homework/期中>)
